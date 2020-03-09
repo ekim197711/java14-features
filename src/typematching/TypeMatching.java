@@ -1,3 +1,5 @@
+package typematching;
+
 public class TypeMatching {
 
     public static void main(String[] args) {
